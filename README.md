@@ -10,3 +10,10 @@ Version base de données
 <img width="1867" height="986" alt="verrsion base de donnees" src="https://github.com/user-attachments/assets/a2df88e9-20d4-43ac-87bc-5faf14aaf4d5" />
 Version capteurs
 <img width="1866" height="981" alt="statique version capteurs" src="https://github.com/user-attachments/assets/ec9ddfdd-329b-4988-bfae-bb7adafa1c7e" />
+###L'injection des dépendences en utilisant Qualifier:
+Version base de donees:
+<img width="1865" height="984" alt="qualifier base de donnees" src="https://github.com/user-attachments/assets/f6f8fa49-aa67-4c0b-8f69-0906a8f786b6" />
+Version Capteurs:
+<img width="1874" height="988" alt="qualifier capteurs" src="https://github.com/user-attachments/assets/1c0b1ee6-dffd-4507-92aa-ecbfa1bc7b66" />
+###L'injection des dépendences en utilisant le Framework Spring- Version XML
+<img width="1868" height="988" alt="spring version ca" src="https://github.com/user-attachments/assets/c2dc49db-6321-4292-96b2-0976fcdf19e1" />
