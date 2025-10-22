@@ -1,6 +1,10 @@
 package net.ouahid.ext;
 
 import net.ouahid.dao.IDao;
+import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Repository;
+
+@Repository("d2")
 
 public class DaoImplV2 implements IDao {
 
